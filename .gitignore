@@ -108,4 +108,7 @@ venv.bak/
 *.pkl
 *-solved.ipynb
 
+
 .idea/
+
+.DS_Store
